@@ -5,4 +5,4 @@
 
 ---
 
-Il lavoro è stato svolto con [Gabriele Ferrante](http://github.com/GabrieleFerrante/ferrantePy) e [Mario Barra](https://github.com/MarioBarra114/Barra.Py)
+Il lavoro è stato svolto con [Gabriele Ferrante](http://github.com/GabrieleFerrante/ferrantePy), [Giovanni Catalano](https://github.com/giovannicatalano) e [Mario Barra](https://github.com/MarioBarra114/Barra.Py)
