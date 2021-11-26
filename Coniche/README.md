@@ -1,6 +1,6 @@
 # Classe delle coniche in Python
 
-###Gruppo coniche
+####Gruppo coniche
 
 #### Russo Jorge 3E
 
