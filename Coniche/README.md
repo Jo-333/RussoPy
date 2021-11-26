@@ -1,4 +1,3 @@
-
 # Classe delle coniche in Python
 
 ###Gruppo coniche
